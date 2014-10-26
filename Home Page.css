@@ -1,0 +1,22 @@
+@charset "UTF-8";
+<!-- He Jiang, University of Southern California, for TrojanHacks2014 -->
+#text2 {
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:12px;
+}
+#note1 {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:14px;
+	width:100%;
+}
+ol {
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size:14px;
+}
+#note {
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size:36px;
+	color:#BB0003;
+	text-align:center;
+	width:100%;
+}
